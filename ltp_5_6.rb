@@ -1,0 +1,7 @@
+puts "Hello there. What is your first name?"
+first = gets.chomp
+puts "and your middle name?"
+middle = gets.chomp
+puts "How 'bout that last name?"
+last = gets.chomp
+puts "Well, hello ", first, " ", middle, " ", last, ". Thank you for your cooperation!"
