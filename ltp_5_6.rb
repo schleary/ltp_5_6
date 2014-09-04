@@ -1,4 +1,4 @@
-puts "Hello there. What is your first name?"
+puts "Hello there! What is your first name?"
 first = gets.chomp
 puts "and your middle name?"
 middle = gets.chomp
